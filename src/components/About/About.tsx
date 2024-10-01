@@ -8,7 +8,7 @@ const About = () => {
         <section className={styles.about}>
             <div className={styles.containerText}>
                 <strong>🎓Образование:</strong>
-                <p>Укажите вашу специальность или курсы, которые вы проходили.</p>
+                <p>Redev Courses.</p>
                 <strong>🌱 Навыки:</strong>
                 <ul className={styles.list}>
                     <li>Основы HTML, CSS и JavaScript</li>
