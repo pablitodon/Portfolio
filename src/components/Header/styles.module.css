@@ -17,15 +17,13 @@
 .link {
     color: #2c3e50;
     transition: color 0.3s ease, transform 0.3s ease;
-    /* Добавляем плавный переход для цвета и трансформации */
     display: inline-block;
-    /* Для применения трансформаций важно использовать inline-block или block */
 }
 
 .link:hover {
-    transform-origin: center bottom;
-    color: aqua;
-    transform: rotateX(-90deg) translateY(100%);
+            color: #828282;
+            transform: scale(1.05);
+            text-decoration: underline;
 }
 
 
