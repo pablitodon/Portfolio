@@ -1,0 +1,50 @@
+.contacts {
+display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+.textContainer {
+    max-width: 400px;
+
+}
+
+.title {
+    font-size: 24px;
+    padding: 5px;
+    color: #113259;
+}
+ 
+.header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    color: #530422;
+        transition: color 0.5s ease;
+}
+
+.link img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+.link:hover {
+    color: #2b001a;
+    text-decoration:underline;
+}
+
+.image {
+    width: 300px;
+    margin-top: 20px;
+    padding-right: 50px;
+    border-radius: 20px;
+}
