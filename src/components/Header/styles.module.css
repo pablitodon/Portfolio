@@ -17,6 +17,7 @@
 .link {
     color: #2c3e50;
     transition: color 0.3s ease, transform 0.3s ease;
+
     display: inline-block;
 }
 
@@ -25,6 +26,8 @@
             transform: scale(1.05);
             text-decoration: underline;
 }
+
+
 
 
 .btnHome{
