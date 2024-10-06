@@ -13,14 +13,14 @@ const Works = () => {
                             <a
                                 className={styles.link}
                                 target="_blank"
-                                href="https://github.com/pablitodon/YOUTUBE_SPA"
+                                href="https://github.com/pablitodon/YOUTUBE-SPA"
                             >
                                 GitHub
                             </a>
                             <a
                                 className={styles.link}
                                 target="_blank"
-                                href=""
+                                href="https://youtube-spa-pavels-projects-d2812de5.vercel.app/main/search"
                             >
                                 Vercel
                             </a>
