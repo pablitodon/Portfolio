@@ -1,7 +1,5 @@
 import { certificateImage } from '../../assets';
-import styles from './styles.module.css'
-
-
+import styles from './styles.module.css';
 
 const About = () => {
     return (
@@ -13,7 +11,7 @@ const About = () => {
                 <ul className={styles.list}>
                     <li>Основы HTML, CSS и JavaScript</li>
                     <li>Основы работы с Git и GitHub</li>
-                    <li>Знакомство с фреймворком : React</li>
+                    <li>Знакомство с фреймворком: React</li>
                 </ul>
                 <div>🎮 Знание Redux и RTK (Redux Toolkit, RTK Query & Mutation) для управления состоянием/выполнения запросов</div>
             </div>

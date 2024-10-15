@@ -62,6 +62,24 @@ const Works = () => {
                             </a>
                         </div>
                     </li>
+                    <li className={styles.workItem}>
+                        <h3 className={styles.title}>CoinCap:</h3>
+                        <div className={styles.links}>
+                            <a
+                                className={styles.link}
+                                target="_blank"
+                                href="https://github.com/pablitodon/coincap"
+                            >GitHub
+                            </a>
+                            <a
+                                className={styles.link}
+                                href="https://coincap-alpha.vercel.app/"
+                                target="_blank"
+                            >
+                                Vercel
+                            </a>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </section>
